@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="Fandango.css"?>
+<Theater 
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema"
+          xsi:schemaLocation="Fandango.xsd">
+
+
+
+<heading> FANDANGO </heading>
+<Theater_Name> Theater Name: Movies 10
+<Movies>
+<Movie_Name> Movie Name:The Happy Time Murderer 
+
+<Movie_Time1>12:25pm</Movie_Time1>
+<Movie_Time2>5:45pm</Movie_Time2>
+<Movie_Time3>7:50pm</Movie_Time3></Movie_Name>
+<Movie_Name> Movie Name:Alpha 
+<Movie_Time1>12:20pm</Movie_Time1>
+<Movie_Time2>2:35pm</Movie_Time2>
+<Movie_Time3>4:50pm</Movie_Time3>
+<Movie_Time4>7:15pm</Movie_Time4></Movie_Name>
+<Movie_Name> Movie Name:Mile 22 
+<Movie_Time1>12:05pm</Movie_Time1>
+<Movie_Time2>3:35pm</Movie_Time2>
+<Movie_Time3>7:25pm</Movie_Time3></Movie_Name>
+<Movie_Name> Movie Name:Slender Man 
+<Movie_Time1>7:40pm</Movie_Time1></Movie_Name>
+<Movie_Name> Movie Name:The Spy Who Dumped Me
+<Movie_Time1>2:30pm</Movie_Time1> </Movie_Name>
+
+</Movies>
+</Theater_Name>
+<Theater_Name> Theater Name: Regal Culver PLaza 16
+<Movies>
+<Movie_Name> Movie Name:Life Itself 
+<Movie_Time1>1:45pm</Movie_Time1>
+<Movie_Time2>4:30pm</Movie_Time2>
+<Movie_Time3>7:15pm</Movie_Time3>
+<Movie_Time4>10:00pm</Movie_Time4></Movie_Name>
+<Movie_Name> Movie Name:The House with a Clock in its Walls
+<Movie_Time1>2:15pm</Movie_Time1>
+<Movie_Time2>4:55pm</Movie_Time2>
+<Movie_Time3>7:45pm</Movie_Time3>
+<Movie_Time4>10:20pm</Movie_Time4></Movie_Name>
+<Movie_Name> Movie Name:A Simple Favour
+<Movie_Time1>1:20pm</Movie_Time1>
+<Movie_Time2>4:15pm</Movie_Time2>
+<Movie_Time3>7:20pm</Movie_Time3>
+<Movie_Time4>10:05pm</Movie_Time4></Movie_Name>
+<Movie_Name> Movie Name:The Predator
+<Movie_Time1>1:30pm</Movie_Time1>
+<Movie_Time2>4:05pm</Movie_Time2>
+<Movie_Time3>7:00pm</Movie_Time3>
+<Movie_Time4>9:40pm</Movie_Time4></Movie_Name>
+<Movie_Name> Movie Name:White House Rick
+<Movie_Time1>1:35pm</Movie_Time1>
+<Movie_Time2>4:35pm</Movie_Time2>
+<Movie_Time3>7:25pm</Movie_Time3>
+<Movie_Time4>10:15pm</Movie_Time4></Movie_Name>
+</Movies>
+</Theater_Name>
+
+
+<Theater_Name> Theater Name: Regal Henrientta 
+<Movies>
+<Movie_Name> Movie Name:Rebel Without a Cause
+<Movie_Time1>2:00pm</Movie_Time1>
+<Movie_Time2>7:00pm</Movie_Time2>
+</Movie_Name>
+
+<Movie_Name> Movie Name:Assasination Nation 
+<Movie_Time1>1:20pm</Movie_Time1>
+<Movie_Time2>4:20pm</Movie_Time2>
+<Movie_Time3>7:30pm</Movie_Time3>
+<Movie_Time4>10:10pm</Movie_Time4></Movie_Name>
+
+<Movie_Name> Movie Name:Fahrenheit 11/9
+<Movie_Time1>3:10pm</Movie_Time1>
+<Movie_Time2>6:20pm</Movie_Time2>
+<Movie_Time3>9:35pm</Movie_Time3>
+</Movie_Name>
+<Movie_Name> Movie Name:Life Itself
+<Movie_Time1>1:10pm</Movie_Time1>
+<Movie_Time2>4:05pm</Movie_Time2>
+<Movie_Time3>7:00pm</Movie_Time3>
+<Movie_Time4>9:50pm</Movie_Time4></Movie_Name>
+<Movie_Name> Movie Name:The House With a Clock on its Walls
+<Movie_Time1>12:40pm</Movie_Time1>
+<Movie_Time2>1:40pm</Movie_Time2>
+<Movie_Time3>3:30pm</Movie_Time3>
+<Movie_Time4>4:30pm</Movie_Time4>
+<Movie_Time5>6:20pm</Movie_Time5>
+<Movie_Time6>7:10pm</Movie_Time6>
+<Movie_Time7>10:00pm</Movie_Time7>
+
+</Movie_Name>
+
+</Movies>
+</Theater_Name>
+
+
+</Theater>
